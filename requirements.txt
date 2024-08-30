@@ -1,0 +1,9 @@
+chainlit==1.1.402
+langchain==0.2.15
+langchain_community==0.2.14
+langchain_core==0.2.36
+langchain_experimental==0.0.64
+langchain_ollama==0.1.2
+langchain_openai==0.1.23
+pandas==2.2.2
+SQLAlchemy==2.0.25
